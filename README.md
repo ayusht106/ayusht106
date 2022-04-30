@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ayusht106
 - 👀 I’m interested in developing websites and progarams
-- 🌱 I’m currently learning c/c++
-- 💞️ My goal to get a decent job at amazon
-- 📫 you can reach me at Instagram at ayus_h11
+- 🌱 I’m currently learning java
+- 💞️ My goal to get a decent job at MNC's
 
 <!---
 ayusht106/ayusht106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
